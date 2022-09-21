@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AnalyseDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./AnalyseDoc.xsd">
+    <SearchText doSearch="true" searchType="rgx_multiline" color="pink">RH850Worker:setMaxChipVoltage MAX20084_[12].{1,20}$\R?^[0-9]{6}\.[0-9]{6}\.[0-9]{3} : id:\b[0-9]{1,5}\b$\R?^[0-9]{6}\.[0-9]{6}\.[0-9]{3} : \b[0-9]{1,5}\b fail:</SearchText>
+</AnalyseDoc>

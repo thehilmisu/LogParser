@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AnalyseDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./AnalyseDoc.xsd">
+    <SearchText doSearch="true" searchType="rgx_multiline" color="pink">(set|Enable)maxChip\w+\sMAX20084_\d\sOUT\d(\s?(9|12.0|150\s2|200|12|5.0))?\r?\n\d{6}\.\d{6}\.\d{3}\s:\sid:\d{2,4}\r?\n\d{6}\.\d{6}\.\d{3}\s:\s\d{2,4}\sfail</SearchText>
+</AnalyseDoc>

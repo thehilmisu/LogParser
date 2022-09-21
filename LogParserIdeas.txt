@@ -1,0 +1,8 @@
+- Get temperature values and plot graph
+- make the graph as jpeg, png
+- modify the reports, this way they are not usefull
+
++ add regular expression support
+
+show the graph that has the failure as occurance, than maybe click on the point and open 
+the certain log file

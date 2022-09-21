@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\directoryops.o
+./release\logoperations.o
+./release\xmlparser.o
+./release\logger.o
+./release\qrc_images.o
+./release\moc_mainwindow.o
+./release\moc_directoryops.o
+./release\moc_logoperations.o
+./release\moc_logger.o
+);

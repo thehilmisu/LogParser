@@ -1,0 +1,43 @@
+v1.0.0
+---------------
+- Basic functionality
+
+v1.0.1
+---------------
+- Added XML attribute reader to control the "doSearch" attribute
+- Report file formatted to show total files and total matches
+- Power Cycle counter added to the report
+
+v1.0.2
+---------------
+- Copy file functionality added.
+- Start button second press problem solved.
+
+v1.0.3
+---------------
+- select occurance together or one by one.
+- when the XML file selected, automatically select the output directory to XML's  location.
+
+v1.0.4
+---------------
+- symlinks, shortcuts enabled to open as log directory
+
+v1.0.5
+---------------
+- bug fixed: occur together option bug
+
+v1.0.7
+----------------
+- occurance count attribute added to xml files
+
+v1.0.8
+----------------
+- filter/search only one device (device specific search)
+
+v1.0.9
+----------------
+- total test cycle and total power cycle counts added on report for every log file.
+
+v1.2.0
+----------------
+- regular expression search implemented

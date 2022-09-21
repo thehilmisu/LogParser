@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/loading.gif</file>
+        <file>images/bosch_S3O_icon.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AnalyseDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./AnalyseDoc.xsd">
+    <SearchText doSearch="true" color="blue">fail: info:Failed to set Voltage</SearchText>
+    <SearchText doSearch="true" color="blue">fail: info:Failed to set Over Current Level and Open load Current</SearchText>
+    <SearchText doSearch="true" color="blue">fail: info:Failed to set Current Limit</SearchText>
+    <SearchText doSearch="true" color="blue">fail: info:Failed to Enable Voltage</SearchText>
+</AnalyseDoc>

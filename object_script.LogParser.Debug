@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\directoryops.o
+./debug\logoperations.o
+./debug\xmlparser.o
+./debug\logger.o
+./debug\qrc_images.o
+./debug\moc_mainwindow.o
+./debug\moc_directoryops.o
+./debug\moc_logoperations.o
+./debug\moc_logger.o
+);
